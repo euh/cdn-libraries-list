@@ -1611,16 +1611,40 @@ http://ajax.googleapis.com/ajax/libs/prototype/1.6.0.2/prototype.js
 
 
 http://ajax.googleapis.com/ajax/libs/scriptaculous/1.9.0/scriptaculous.js
+http://ajax.googleapis.com/ajax/libs/scriptaculous/1.9.0/builder.js
+http://ajax.googleapis.com/ajax/libs/scriptaculous/1.9.0/controls.js
+http://ajax.googleapis.com/ajax/libs/scriptaculous/1.9.0/dragdrop.js
+http://ajax.googleapis.com/ajax/libs/scriptaculous/1.9.0/effects.js
+http://ajax.googleapis.com/ajax/libs/scriptaculous/1.9.0/slider.js
+http://ajax.googleapis.com/ajax/libs/scriptaculous/1.9.0/sound.js
+http://ajax.googleapis.com/ajax/libs/scriptaculous/1.9.0/unittest.js
 http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.3/scriptaculous.js
+http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.3/builder.js
+http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.3/controls.js
+http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.3/dragdrop.js
+http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.3/effects.js
+http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.3/slider.js
+http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.3/sound.js
+http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.3/unittest.js
 http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.2/scriptaculous.js
+http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.2/builder.js
+http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.2/controls.js
+http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.2/dragdrop.js
+http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.2/effects.js
+http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.2/slider.js
+http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.2/sound.js
 http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.1/scriptaculous.js
-
+http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.1/builder.js
+http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.1/controls.js
+http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.1/dragdrop.js
+http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.1/effects.js
+http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.1/slider.js
+http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.1/sound.js
 
 http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js
 http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject_src.js
 http://ajax.googleapis.com/ajax/libs/swfobject/2.1/swfobject.js
 http://ajax.googleapis.com/ajax/libs/swfobject/2.1/swfobject_src.js
-
 
 http://ajax.googleapis.com/ajax/libs/yui/2.8.2/build/yuiloader/yuiloader-min.js
 http://ajax.googleapis.com/ajax/libs/yui/2.8.2/build/yuiloader/yuiloader.js
