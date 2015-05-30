@@ -1690,8 +1690,35 @@ http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject_src.js
 http://ajax.googleapis.com/ajax/libs/swfobject/2.1/swfobject.js
 http://ajax.googleapis.com/ajax/libs/swfobject/2.1/swfobject_src.js
 
+http://ajax.googleapis.com/ajax/libs/yui/2.8.2/build/yahoo-dom-event/yahoo-dom-event.js
+http://ajax.googleapis.com/ajax/libs/yui/2.8.2/build/animation/animation-min.js
+http://ajax.googleapis.com/ajax/libs/yui/2.8.2/build/element/element-min.js
+http://ajax.googleapis.com/ajax/libs/yui/2.8.2/build/button/button-min.js
+http://ajax.googleapis.com/ajax/libs/yui/2.8.2/build/calendar/calendar-min.js
+http://ajax.googleapis.com/ajax/libs/yui/2.8.2/build/dragdrop/dragdrop-min.js
+http://ajax.googleapis.com/ajax/libs/yui/2.8.2/build/container/container-min.js
+http://ajax.googleapis.com/ajax/libs/yui/2.8.2/build/datasource/datasource-min.js
+http://ajax.googleapis.com/ajax/libs/yui/2.8.2/build/datatable/datatable-min.js
+http://ajax.googleapis.com/ajax/libs/yui/2.8.2/build/resize/resize-min.js
+http://ajax.googleapis.com/ajax/libs/yui/2.8.2/build/layout/layout-min.js
+http://ajax.googleapis.com/ajax/libs/yui/2.8.2/build/tabview/tabview-min.js
+http://ajax.googleapis.com/ajax/libs/yui/2.8.2/build/treeview/treeview-min.js
 http://ajax.googleapis.com/ajax/libs/yui/2.8.2/build/yuiloader/yuiloader-min.js
 http://ajax.googleapis.com/ajax/libs/yui/2.8.2/build/yuiloader/yuiloader.js
+
+http://ajax.googleapis.com/ajax/libs/yui/2.8.1/build/yahoo-dom-event/yahoo-dom-event.js
+http://ajax.googleapis.com/ajax/libs/yui/2.8.1/build/animation/animation-min.js
+http://ajax.googleapis.com/ajax/libs/yui/2.8.1/build/element/element-min.js
+http://ajax.googleapis.com/ajax/libs/yui/2.8.1/build/button/button-min.js
+http://ajax.googleapis.com/ajax/libs/yui/2.8.1/build/calendar/calendar-min.js
+http://ajax.googleapis.com/ajax/libs/yui/2.8.1/build/dragdrop/dragdrop-min.js
+http://ajax.googleapis.com/ajax/libs/yui/2.8.1/build/container/container-min.js
+http://ajax.googleapis.com/ajax/libs/yui/2.8.1/build/datasource/datasource-min.js
+http://ajax.googleapis.com/ajax/libs/yui/2.8.1/build/datatable/datatable-min.js
+http://ajax.googleapis.com/ajax/libs/yui/2.8.1/build/resize/resize-min.js
+http://ajax.googleapis.com/ajax/libs/yui/2.8.1/build/layout/layout-min.js
+http://ajax.googleapis.com/ajax/libs/yui/2.8.1/build/tabview/tabview-min.js
+http://ajax.googleapis.com/ajax/libs/yui/2.8.1/build/treeview/treeview-min.js
 http://ajax.googleapis.com/ajax/libs/yui/2.8.1/build/yuiloader/yuiloader-min.js
 http://ajax.googleapis.com/ajax/libs/yui/2.8.1/build/yuiloader/yuiloader.js
 
@@ -1708,6 +1735,8 @@ http://ajax.googleapis.com/ajax/libs/yui/2.8.0/build/resize/resize-min.js
 http://ajax.googleapis.com/ajax/libs/yui/2.8.0/build/layout/layout-min.js
 http://ajax.googleapis.com/ajax/libs/yui/2.8.0/build/tabview/tabview-min.js
 http://ajax.googleapis.com/ajax/libs/yui/2.8.0/build/treeview/treeview-min.js
+http://ajax.googleapis.com/ajax/libs/yui/2.8.0/build/yuiloader/yuiloader-min.js
+http://ajax.googleapis.com/ajax/libs/yui/2.8.0/build/yuiloader/yuiloader.js
 
 http://ajax.googleapis.com/ajax/libs/yui/2.7.0/build/yahoo-dom-event/yahoo-dom-event.js
 http://ajax.googleapis.com/ajax/libs/yui/2.7.0/build/animation/animation-min.js
@@ -1722,6 +1751,8 @@ http://ajax.googleapis.com/ajax/libs/yui/2.7.0/build/resize/resize-min.js
 http://ajax.googleapis.com/ajax/libs/yui/2.7.0/build/layout/layout-min.js
 http://ajax.googleapis.com/ajax/libs/yui/2.7.0/build/tabview/tabview-min.js
 http://ajax.googleapis.com/ajax/libs/yui/2.7.0/build/treeview/treeview-min.js
+http://ajax.googleapis.com/ajax/libs/yui/2.7.0/build/yuiloader/yuiloader-min.js
+http://ajax.googleapis.com/ajax/libs/yui/2.7.0/build/yuiloader/yuiloader.js
 
 http://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js
 
