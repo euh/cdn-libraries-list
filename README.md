@@ -11,3 +11,8 @@ You can use it to make your self hosted mirror and avoid potential tracking from
 More details :
 - http://superkuh.com/ajaxgoogleapis.html
 - https://github.com/rmm5t/googleapis-mirror
+
+-
+
+wget https://raw.githubusercontent.com/euh/googleapis-libraries-list/master/libraries.txt
+wget -x -nc -i libraries.txt
