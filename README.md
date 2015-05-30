@@ -12,7 +12,7 @@ More details :
 - http://superkuh.com/ajaxgoogleapis.html
 - https://github.com/rmm5t/googleapis-mirror
 
-
+--
 
 wget https://raw.githubusercontent.com/euh/googleapis-libraries-list/master/libraries.txt
 
