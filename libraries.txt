@@ -338,7 +338,10 @@ http://ajax.googleapis.com/ajax/libs/dojo/1.7.0/dojo/dojo.js
 http://ajax.googleapis.com/ajax/libs/dojo/1.6.1/dojo/dojo.js
 http://ajax.googleapis.com/ajax/libs/dojo/1.6.0/dojo/dojo.js
 http://ajax.googleapis.com/ajax/libs/dojo/1.5.2/dojo/dojo.js
+
+http://ajax.googleapis.com/ajax/libs/dojo/1.5.1/dojo/uacss.xd.js
 http://ajax.googleapis.com/ajax/libs/dojo/1.5.1/dojo/dojo.js
+
 http://ajax.googleapis.com/ajax/libs/dojo/1.5.0/dojo/dojo.js
 http://ajax.googleapis.com/ajax/libs/dojo/1.4.4/dojo/dojo.js
 http://ajax.googleapis.com/ajax/libs/dojo/1.4.3/dojo/dojo.js
@@ -360,6 +363,7 @@ http://ajax.googleapis.com/ajax/libs/ext-core/3.0.0/ext-core.js
 http://ajax.googleapis.com/ajax/libs/ext-core/3.0.0/ext-core-debug.js
 
 http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js
+http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js
 
 http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js
 http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.js
