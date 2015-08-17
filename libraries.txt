@@ -536,6 +536,7 @@ http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/overcast/jquery-ui.c
 http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/pepper-grinder/jquery-ui.css
 http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/redmond/jquery-ui.css
 http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css
+http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.min.css
 http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/south-street/jquery-ui.css
 http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/start/jquery-ui.css
 http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/sunny/jquery-ui.css
@@ -563,6 +564,7 @@ http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/themes/overcast/jquery-ui.c
 http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/themes/pepper-grinder/jquery-ui.css
 http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/themes/redmond/jquery-ui.css
 http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/themes/smoothness/jquery-ui.css
+http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/themes/smoothness/jquery-ui.min.css
 http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/themes/south-street/jquery-ui.css
 http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/themes/start/jquery-ui.css
 http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/themes/sunny/jquery-ui.css
