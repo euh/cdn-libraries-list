@@ -1924,6 +1924,8 @@ http://ajax.googleapis.com/ajax/libs/mootools/1.2.1/mootools-yui-compressed.js
 http://ajax.googleapis.com/ajax/libs/mootools/1.2.1/mootools.js
 http://ajax.googleapis.com/ajax/libs/mootools/1.1.2/mootools-yui-compressed.js
 http://ajax.googleapis.com/ajax/libs/mootools/1.1.2/mootools.js
+http://ajax.googleapis.com/ajax/libs/mootools/1.11/mootools-yui-compressed.js
+http://ajax.googleapis.com/ajax/libs/mootools/1.11/mootools.js
 http://ajax.googleapis.com/ajax/libs/mootools/1.1.1/mootools-yui-compressed.js
 http://ajax.googleapis.com/ajax/libs/mootools/1.1.1/mootools.js
 
