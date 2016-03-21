@@ -2289,6 +2289,7 @@ http://ajax.googleapis.com/ajax/libs/mootools/1.11/mootools.js
 http://ajax.googleapis.com/ajax/libs/mootools/1.1.1/mootools-yui-compressed.js
 http://ajax.googleapis.com/ajax/libs/mootools/1.1.1/mootools.js
 
+http://ajax.googleapis.com/ajax/libs/prototype/1.7.3.0/prototype.js
 http://ajax.googleapis.com/ajax/libs/prototype/1.7.2.0/prototype.js
 http://ajax.googleapis.com/ajax/libs/prototype/1.7.1.0/prototype.js
 http://ajax.googleapis.com/ajax/libs/prototype/1.7.0.0/prototype.js
@@ -2421,6 +2422,8 @@ http://ajax.googleapis.com/ajax/libs/yui/2.7.0/build/yuiloader/yuiloader.js
 
 http://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js
 
+http://ajax.googleapis.com/ajax/libs/webfont/1.6.16/webfont.js
+http://ajax.googleapis.com/ajax/libs/webfont/1.6.16/webfont_debug.js
 http://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js
 http://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont_debug.js
 http://ajax.googleapis.com/ajax/libs/webfont/1.5.10/webfont.js
