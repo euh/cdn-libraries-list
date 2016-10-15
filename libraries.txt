@@ -1155,6 +1155,19 @@ http://ajax.googleapis.com/ajax/libs/angularjs/1.0.2/angular.js
 http://ajax.googleapis.com/ajax/libs/angularjs/1.0.1/angular.min.js
 http://ajax.googleapis.com/ajax/libs/angularjs/1.0.1/angular.js
 
+https://ajax.googleapis.com/ajax/libs/angular_material/1.1.0/angular-material.min.js
+https://ajax.googleapis.com/ajax/libs/angular_material/1.1.0-rc5/angular-material.min.js
+https://ajax.googleapis.com/ajax/libs/angular_material/1.1.0-rc4/angular-material.min.js
+https://ajax.googleapis.com/ajax/libs/angular_material/1.0.9/angular-material.min.js
+https://ajax.googleapis.com/ajax/libs/angular_material/1.0.8/angular-material.min.js
+https://ajax.googleapis.com/ajax/libs/angular_material/1.0.7/angular-material.min.js
+https://ajax.googleapis.com/ajax/libs/angular_material/1.0.6/angular-material.min.js
+https://ajax.googleapis.com/ajax/libs/angular_material/1.0.5/angular-material.min.js
+https://ajax.googleapis.com/ajax/libs/angular_material/1.0.4/angular-material.min.js
+https://ajax.googleapis.com/ajax/libs/angular_material/1.0.3/angular-material.min.js
+https://ajax.googleapis.com/ajax/libs/angular_material/1.0.2/angular-material.min.js
+https://ajax.googleapis.com/ajax/libs/angular_material/1.0.1/angular-material.min.js
+https://ajax.googleapis.com/ajax/libs/angular_material/1.0.0/angular-material.min.js
 http://ajax.googleapis.com/ajax/libs/angular_material/0.9.0/angular-material.min.js
 http://ajax.googleapis.com/ajax/libs/angular_material/0.9.0/angular-material.min.css
 http://ajax.googleapis.com/ajax/libs/angular_material/0.8.3/angular-material.min.js
