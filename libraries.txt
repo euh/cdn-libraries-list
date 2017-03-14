@@ -1377,6 +1377,8 @@ http://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.1/jquery.mobile.min.js
 http://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.0/jquery.mobile.min.css
 http://ajax.googleapis.com/ajax/libs/jquerymobile/1.4.0/jquery.mobile.min.js
 
+http://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js
+http://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.js
 http://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/dark-hive/jquery-ui.css
 http://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/dot-luv/jquery-ui.css
 http://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/eggplant/jquery-ui.css
