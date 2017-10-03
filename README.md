@@ -1,6 +1,6 @@
 # googleapis-libraries-list
 
-**Last update 2017/03/14**
+**Last update 2017/10/03**
 
 googleapis-librarie-list is an updated list of https://github.com/rmm5t/googleapis-mirror/blob/master/libraries.txt
 
