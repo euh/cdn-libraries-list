@@ -14,7 +14,7 @@ More details :
 ```
 wget https://raw.githubusercontent.com/euh/cdn-libraries-list/master/ajax.googleapis.com.txt
 
-wget https://raw.githubusercontent.com/euh/cdn-libraries-list/master/ajax.googleapis.com.txt
+wget https://raw.githubusercontent.com/euh/cdn-libraries-list/master/code.jquery.com.txt
 
 wget -x -nc -i ajax.googleapis.com.txt
 
