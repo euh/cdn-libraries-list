@@ -306,7 +306,6 @@ http://code.jquery.com/ui/1.8.2/jquery-ui.js
 http://code.jquery.com/ui/1.8.1/jquery-ui.js
 http://code.jquery.com/ui/1.8.0/jquery-ui.js
 http://code.jquery.com/ui/1.7.3/jquery-ui.js
-
 http://code.jquery.com/ui/1.8.23/jquery-ui.min.js
 http://code.jquery.com/ui/1.8.22/jquery-ui.min.js
 http://code.jquery.com/ui/1.8.21/jquery-ui.min.js
@@ -332,7 +331,6 @@ http://code.jquery.com/ui/1.8.2/jquery-ui.min.js
 http://code.jquery.com/ui/1.8.1/jquery-ui.min.js
 http://code.jquery.com/ui/1.8.0/jquery-ui.min.js
 http://code.jquery.com/ui/1.7.3/jquery-ui.min.js
-
 http://code.jquery.com/ui/1.7.3/themes/base/jquery-ui.css
 http://code.jquery.com/ui/1.7.3/themes/black-tie/jquery-ui.css
 http://code.jquery.com/ui/1.7.3/themes/blitzer/jquery-ui.css
