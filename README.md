@@ -4,11 +4,18 @@ ajax.googleapis.com.txt doesn't contain all the JavaScript that ajax.googlesapis
 
 code.jquery.com.txt contains all libraries hosted on code.jquery.com
 
-You can use it to make your self hosted mirror and avoid potential tracking from google on ajax.googleapis.com or code.jquery.com and/or speed up the display of websites.
+You can use it to make your self hosted mirror and avoid potential tracking or speed up the display of websites.
 
 More details :
 - http://superkuh.com/ajaxgoogleapis.html
 - https://github.com/rmm5t/googleapis-mirror
+
+Hints :
+- You must create an HTTP and HTTPS server to answer requests and modify the hosts file on your system (or your DNS server if you have one).
+- Because ajax.googleapis.com uses HSTS, for HTTPS requests you must bypass your browser's protection. 
+- For Firefox, you must modify with a hexadecimal editor the file libxul.so or xul.dll (Windows) and alter what you find about ajax.googleapis.com
+- You must repeat the operation after each update of Firefox
+- I don't know the procedure for Chromium-based browsers.
 
 --
 ```
