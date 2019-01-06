@@ -12,8 +12,8 @@ More details :
 
 Hints :
 - You must create an HTTP and HTTPS server to answer requests and modify the hosts file on your system (or your DNS server if you have one).
-- Because ajax.googleapis.com uses HSTS, for HTTPS requests you must bypass your browser's protection. 
-- For Firefox, you must modify with an hexadecimal editor the file libxul.so or xul.dll (Windows) and alter what you find about ajax.googleapis.com
+- Because ajax.googleapis.com uses HSTS, for HTTPS requests you need to bypass your browser's protection. 
+- For Firefox, use a hexadecimal editor to modify the file libxul.so or xul.dll (Windows) and alter what you find about ajax.googleapis.com
 - You must repeat the operation after each update of Firefox
 - I don't know the procedure for Chromium-based browsers.
 
