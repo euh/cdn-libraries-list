@@ -1902,10 +1902,6 @@ http://ajax.googleapis.com/ajax/libs/dojo/1.7.0/dojo/dojo.js
 http://ajax.googleapis.com/ajax/libs/dojo/1.6.1/dojo/dojo.js
 http://ajax.googleapis.com/ajax/libs/dojo/1.6.0/dojo/dojo.js
 http://ajax.googleapis.com/ajax/libs/dojo/1.5.2/dojo/dojo.js
-
-http://ajax.googleapis.com/ajax/libs/dojo/1.5.1/dojo/uacss.xd.js
-http://ajax.googleapis.com/ajax/libs/dojo/1.5.1/dojo/dojo.js
-
 http://ajax.googleapis.com/ajax/libs/dojo/1.5.0/dojo/dojo.js
 http://ajax.googleapis.com/ajax/libs/dojo/1.4.4/dojo/dojo.js
 http://ajax.googleapis.com/ajax/libs/dojo/1.4.3/dojo/dojo.js
@@ -1918,8 +1914,20 @@ http://ajax.googleapis.com/ajax/libs/dojo/1.2.3/dojo/dojo.js
 http://ajax.googleapis.com/ajax/libs/dojo/1.2.0/dojo/dojo.js
 http://ajax.googleapis.com/ajax/libs/dojo/1.1.1/dojo/dojo.js
 
+http://ajax.googleapis.com/ajax/libs/dojo/1.8/dijit//focus.js
+http://ajax.googleapis.com/ajax/libs/dojo/1.8/dojo/parser.js
+http://ajax.googleapis.com/ajax/libs/dojo/1.8/dojo/NodeList-traverse.js 
+http://ajax.googleapis.com/ajax/libs/dojo/1.8/dijit//form/DateTextBox.js
+
+http://ajax.googleapis.com/ajax/libs/dojo/1.5.1/dojo/uacss.xd.js
+http://ajax.googleapis.com/ajax/libs/dojo/1.5.1/dojo/dojo.js
+
 http://ajax.googleapis.com/ajax/libs/dojo/1.5/dojo/dojo.xd.js
 http://ajax.googleapis.com/ajax/libs/dojo/1.5/dojo/dojo.xd.js.uncompressed.js
+
+http://ajax.googleapis.com/ajax/libs/dojo/1.4/dojox/highlight/resources/highlight.css
+http://ajax.googleapis.com/ajax/libs/dojo/1.4/dojo/dojo.xd.js
+
 
 http://ajax.googleapis.com/ajax/libs/ext-core/3.1.0/ext-core.js
 http://ajax.googleapis.com/ajax/libs/ext-core/3.1.0/ext-core-debug.js
@@ -2082,6 +2090,7 @@ http://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/trontastic/jquery-ui
 http://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/ui-darkness/jquery-ui.css
 http://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/ui-lightness/jquery-ui.css
 http://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/vader/jquery-ui.css
+http://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/base/jquery-ui.css
 
 http://ajax.googleapis.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js
 http://ajax.googleapis.com/ajax/libs/jqueryui/1.12.0/jquery-ui.js
