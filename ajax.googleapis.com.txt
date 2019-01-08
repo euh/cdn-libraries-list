@@ -1914,10 +1914,10 @@ http://ajax.googleapis.com/ajax/libs/dojo/1.2.3/dojo/dojo.js
 http://ajax.googleapis.com/ajax/libs/dojo/1.2.0/dojo/dojo.js
 http://ajax.googleapis.com/ajax/libs/dojo/1.1.1/dojo/dojo.js
 
-http://ajax.googleapis.com/ajax/libs/dojo/1.8/dijit//focus.js
+http://ajax.googleapis.com/ajax/libs/dojo/1.8/dijit/focus.js
 http://ajax.googleapis.com/ajax/libs/dojo/1.8/dojo/parser.js
 http://ajax.googleapis.com/ajax/libs/dojo/1.8/dojo/NodeList-traverse.js 
-http://ajax.googleapis.com/ajax/libs/dojo/1.8/dijit//form/DateTextBox.js
+http://ajax.googleapis.com/ajax/libs/dojo/1.8/dijit/form/DateTextBox.js
 
 http://ajax.googleapis.com/ajax/libs/dojo/1.5.1/dojo/uacss.xd.js
 http://ajax.googleapis.com/ajax/libs/dojo/1.5.1/dojo/dojo.js
