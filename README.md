@@ -2,7 +2,7 @@
 
 ajax.googleapis.com.txt doesn't contain all the JavaScript that ajax.googlesapis.com hosts (missing some old angular.js and yui).
 
-code.jquery.com.txt contains all libraries hosted on code.jquery.com
+code.jquery.com.txt contains all libraries hosted on code.jquery.com (missing some old jquery-ui css)
 
 You can use it to make your self hosted mirror for speed up the display of websites or avoid potential tracking.
 
