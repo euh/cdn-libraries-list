@@ -2,6 +2,10 @@ http://code.jquery.com/jquery-migrate-1.2.1.min.js
 
 http://code.jquery.com/jquery-latest.min.js
 
+http://code.jquery.com/jquery-3.4.1.min.js
+http://code.jquery.com/jquery-3.4.1.slim.min.js
+http://code.jquery.com/jquery-3.4.0.min.js
+http://code.jquery.com/jquery-3.4.0.slim.min.js
 http://code.jquery.com/jquery-3.3.1.min.js
 http://code.jquery.com/jquery-3.3.1.slim.min.js
 http://code.jquery.com/jquery-3.2.1.min.js
