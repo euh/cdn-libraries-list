@@ -1,8 +1,8 @@
 # cdn-libraries-list
 
-ajax.googleapis.com.txt doesn't contain all the JavaScript that ajax.googlesapis.com hosts (missing some old angular.js and yui).
+ajax.googleapis.com.txt doesn't contain all the libraries that ajax.googlesapis.com hosts (missing some old angular.js and yui).
 
-code.jquery.com.txt contains all libraries hosted on code.jquery.com (missing some old jquery-ui css).
+code.jquery.com.txt may contain all the libraries hosted on code.jquery.com.
 
 ajax.aspnetcdn.com isn't ready for use.
 
