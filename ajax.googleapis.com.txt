@@ -2067,9 +2067,16 @@ http://ajax.googleapis.com/ajax/libs/indefinite-observable/1.0.1/indefinite-obse
 http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js
 http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js
 
+http://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
+http://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js
+http://ajax.googleapis.com/ajax/libs/jquery/3.5.0/jquery.min.js
+http://ajax.googleapis.com/ajax/libs/jquery/3.5.0/jquery.slim.min.js
 http://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
+http://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js
 http://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js
+http://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.slim.min.js
 http://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
+http://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.slim.min.js
 http://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js
 http://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js
 http://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js
